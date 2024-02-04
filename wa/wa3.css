@@ -1,15 +1,24 @@
 body{
-    background-color: aliceblue;
+    background-color: white;
+    max-width: 100%;
+    justify-self: center;
 }
 
+p{
+    text-align: justify;
+}
+
+
 aside{
-    width: 30%;
+    width: 20%;
     padding-left: 15px;
-    padding-right: 15px;
-    margin-right: 15px;
     margin-left: 15px;
     float: right;
     background-color: lightgrey;
     line-height: 150%;
 
+}
+.logo {
+    padding-top: 1em;
+    width: 95%;
 }
