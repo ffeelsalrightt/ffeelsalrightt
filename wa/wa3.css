@@ -8,6 +8,10 @@ p,dd{
     text-align: justify;
 }
 
+dt{
+    font-weight: bold;
+}
+
 
 aside{
     width: 20%;
